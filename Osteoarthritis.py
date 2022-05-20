@@ -9,6 +9,7 @@ class Osteo:
     pass
 
   def read_json_osteo(self):
+    """Read a score file from json."""
 
   #  filename = pathlib.Path(path).name
     #print(filename)
